@@ -1,0 +1,12 @@
+<tag> 
+  <inside-tag>
+    <test>
+      test
+    </test>
+  </inside-tag>
+  <inside-tag>
+    another test
+  </inside-tag>
+  <test-tag>
+  </test-tag>
+</tag>
